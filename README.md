@@ -20,4 +20,4 @@ Document processing stays on the device. Downloaders connect to the selected sou
 
 Office conversion uses the documented local layout subset: Word reading layout, Excel tables/cached values, and PowerPoint slide geometry/basic shapes/images/text. Complex charts, SmartArt, exact Word pagination and advanced typography are not reproduced with Microsoft Office fidelity. PDF-to-editable formats use existing text; OCR and PDF/A remain excluded.
 
-The configured remote is https://github.com/AmaanKhan63/toolkit.git. The approved 0.4.2 repairs are merged into `main` from `fix/toolkit-usability-reliability`. Media failures offer a private, exportable error report for troubleshooting. Historical reports remain under docs; the current capability report supersedes their unfinished-feature lists.
+The configured remote is https://github.com/Amaan2210/toolkit.git. The approved 0.4.2 repairs are merged into `main` from `fix/toolkit-usability-reliability`. Media failures offer a private, exportable error report for troubleshooting. Historical reports remain under docs; the current capability report supersedes their unfinished-feature lists.
